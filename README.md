@@ -2,7 +2,7 @@
 
 > 💡 **Engineering Focus**: This is NOT just another tutorial weather app. It is a production-ready frontend architecture exercise focused on **strict decoupling, state isolation, data normalization, and network performance optimization**.
 
-🔗 Live Demo: [https://jillchiu.vercel.app](https://jillchiu.github.io/react-weather-dashboard/)
+🔗 Live Demo: [https://jillchiu.github.io/react-weather-dashboard/]
 
 📂 Source Code: https://github.com/yourname/weather-dashboard
 
