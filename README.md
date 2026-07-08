@@ -311,3 +311,6 @@ This project was built to demonstrate:
 * API calls are intentionally split (current vs forecast) to reduce unnecessary data fetching
 * mapper layer exists to decouple UI from external API structure
 * UI is designed to degrade gracefully under API failure
+
+# react-weather-dashboard
+react-weather-dashboard
