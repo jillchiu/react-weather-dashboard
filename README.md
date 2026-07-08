@@ -313,5 +313,3 @@ This project was built to demonstrate:
 * mapper layer exists to decouple UI from external API structure
 * UI is designed to degrade gracefully under API failure
 
-# react-weather-dashboard
-react-weather-dashboard
