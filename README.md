@@ -4,7 +4,8 @@
 
 🔗 Live Demo: https://jillchiu.github.io/react-weather-dashboard/
 
-📂 Source Code: https://github.com/yourname/weather-dashboard
+📂 Source Code: 
+https://github.com/jillchiu/react-weather-dashboard/tree/main
 
 A weather application built with React, TypeScript, and OpenWeather API.
 
