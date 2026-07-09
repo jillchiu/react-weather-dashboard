@@ -116,7 +116,7 @@ function App() {
 
     <div className={`min-h-screen flex items-center justify-center bg-gradient-to-b transition-all duration-700 ease-in-out ${theme.background}`}>
 
-      <title>react-weather-dashboard</title>
+      <title>Weather Dashboard</title>
 
       <div className={`${theme.card} p-10 rounded-3xl shadow-2xl text-center w-[420px] border ${theme.border} transition-all duration-700 flex flex-col gap-6 ${isLoading ? 'opacity-70 scale-[0.99]': 'opacity-100 scale-100'}` }>
 
