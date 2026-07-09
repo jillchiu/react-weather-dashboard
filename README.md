@@ -2,9 +2,10 @@
 
 > 💡 **Engineering Focus**: This is NOT just another tutorial weather app. It is a production-ready frontend architecture exercise focused on **strict decoupling, state isolation, data normalization, and network performance optimization**.
 
-🔗 Live Demo: https://xxxx.vercel.app
+🔗 Live Demo: 
+https://jillchiu.github.io/react-weather-dashboard/
 
-📂 Source Code: https://github.com/yourname/weather-dashboard
+📂 Source Code: https://github.com/jillchiu/react-weather-dashboard/tree/main
 
 A weather application built with React, TypeScript, and OpenWeather API.
 
@@ -312,5 +313,3 @@ This project was built to demonstrate:
 * mapper layer exists to decouple UI from external API structure
 * UI is designed to degrade gracefully under API failure
 
-# react-weather-dashboard
-react-weather-dashboard
